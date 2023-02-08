@@ -230,9 +230,9 @@ bids-examples (in alphabetical order).
 
 ### MOTION datasets
 
-| name                        | maintained by     | description                                                                  | link to full data                             |
-| --------------------------- | ----------------- | -----------------------------------------------------------------------------| --------------------------------------------- |
-| motion_systemvalidation     | @JuliusWelzel     | Example dataset of using two different motion capture systems simultaniously | https://doi.org/10.6084/m9.figshare.20238006  |
+| name                        | maintained by     | description                                                                  | link to full data                           |
+| --------------------------- | ----------------- | -----------------------------------------------------------------------------| ------------------------------------------- |
+| motion_systemvalidation     | @JuliusWelzel     | Example dataset of using two different motion capture systems simultaniously | https://doi.org/10.6084/m9.figshare.20238006 |
 
 
 ### Multimodal datasets
